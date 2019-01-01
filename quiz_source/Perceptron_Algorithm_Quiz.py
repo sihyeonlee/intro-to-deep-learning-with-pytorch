@@ -35,8 +35,6 @@ def perceptronStep(X, y, W, b, learn_rate=0.01):
             b -= learn_rate
 
     return W, b
-
-
 # ==Answer==
 
 def trainPerceptronAlgorithm(X, y, learn_rate=0.01, num_epochs=25):
