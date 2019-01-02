@@ -9,4 +9,6 @@ Udacity Free Course인 Intro_to_Deep_Learning_with_PyTorch 과정을 진행하�
 ## quiz_source
 
 * 2019-01-01
-   * Perceptron Algorithm Quiz
+    * Perceptron Algorithm Quiz
+* 2019-01-02
+    * Softmax Function Quiz
