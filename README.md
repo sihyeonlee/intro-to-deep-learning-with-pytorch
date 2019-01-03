@@ -7,6 +7,8 @@ Udacity Free Course인 Intro_to_Deep_Learning_with_PyTorch 과정을 진행하�
     * Lesson 2-10(Perceptron Algorithm)
 * 2019-01-02
     * Lesson 2-17(Maximum Likelihood)
+* 2019-01-03
+    * Lesson 2-20(Cross-Entropy 2)
 
 ## quiz_source
 
