@@ -13,8 +13,6 @@ def cross_entropy(Y, P):
     P = np.asarray(P).astype(float)
 
     return -np.sum(Y * np.log(P) + (1 - Y) * np.log(1 - P))
-
-
 # ==Answer==
 
 
