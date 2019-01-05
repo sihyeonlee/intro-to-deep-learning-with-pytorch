@@ -20,3 +20,5 @@ Udacity Free Course인 Intro_to_Deep_Learning_with_PyTorch 과정을 진행하�
     * Softmax Function Quiz
 * 2019-01-03
     * Cross Entropy Quiz
+* 2019-01-05
+    * gradient-descent-algorithm
