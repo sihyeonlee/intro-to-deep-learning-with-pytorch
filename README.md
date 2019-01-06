@@ -25,3 +25,5 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
 
 * 2019-01-05
     * gradient-descent-algorithm
+* 2019-01-06
+    * predicting-neural-network
