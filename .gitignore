@@ -1,8 +1,4 @@
 
-quiz_source/gradient-descent-algorithm/\.idea/
+implement-script/predicting-neural-networks/\.idea/
 
-quiz_source/gradient-descent-algorithm/venv/
-
-implement-source/gradient-descent-algorithm/\.idea/
-
-implement-source/gradient-descent-algorithm/venv/
+implement-script/predicting-neural-networks/venv/
