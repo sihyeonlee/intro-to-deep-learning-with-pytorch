@@ -11,6 +11,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Lesson 2-20 (Cross-Entropy 2)
 * 2019-01-05
     * Lesson 2-26 (Gradient-Descent)
+* 2019-01-06
+    * Lesson 2-35 (Analyzing-Student-Data)
 
 ## Quiz-Script
 
