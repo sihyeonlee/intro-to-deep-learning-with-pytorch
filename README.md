@@ -14,9 +14,7 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
 * 2019-01-06
     * Lesson 2-35 (Analyzing-Student-Data)
 * 2019-01-07
-    * Lesson 2-50 (Error-Functions) 
-    
-    'Lesson2 Finish'
+    * Lesson 2-50 (Error-Functions)
 
 ## Quiz-Script
 
