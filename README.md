@@ -21,6 +21,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Review & Read a Book ('Deep Learning from Scratch)
 * 2019-01-13
     * Lesson 4-10 (Network-Architectures Solution)
+* 2019-01-14
+    * Lesson 4-22 `Lesson4 Finsih`
 
 ## Quiz-Script
 
@@ -37,3 +39,6 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * gradient-descent-algorithm
 * 2019-01-06
     * predicting-neural-network
+
+## Jupyter-Notebook
+- Will be Update
