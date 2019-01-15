@@ -23,6 +23,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Lesson 4-10 (Network-Architectures Solution)
 * 2019-01-14
     * Lesson 4-22 `Lesson4 Finsih`
+* 2019-01-15
+    * Review
 
 ## Quiz-Script
 
