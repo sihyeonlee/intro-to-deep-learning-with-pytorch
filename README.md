@@ -25,6 +25,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Lesson 4-22 `Lesson4 Finsih`
 * 2019-01-15
     * Review
+* 2019-01-16
+    * Review
 
 ## Quiz-Script
 
