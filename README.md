@@ -27,6 +27,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Review
 * 2019-01-16
     * Review
+* 2019-01-17
+    * Back to Lesson 4-9 (I don't understand)
 
 ## Quiz-Script
 
@@ -45,4 +47,6 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * predicting-neural-network
 
 ## Jupyter-Notebook
-- Will be Update
+- 2019-01-17
+    * Part1 (Lesson 4-1 ~ 4-4)
+    * Part2 (Lesson 4-5 ~ 4-8)
