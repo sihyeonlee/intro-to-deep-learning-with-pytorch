@@ -18,7 +18,7 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
 * 2019-01-08
     * Lesson 4-2 (Single-Layer-Neural-Networks) `Lesson3 Finish`
 * 2019-01-09 ~ 2019-01-12
-    * Review & Read a Book ('Deep Learning from Scratch)
+    * Review & Read a Book (`Deep Learning from Scratch`)
 * 2019-01-13
     * Lesson 4-10 (Network-Architectures Solution)
 * 2019-01-14
