@@ -64,3 +64,5 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Part3 (Lesson 4-9 ~ 4-11)
 - 2019-01-25
     * Part4 (Lesson 4-12 ~ 4-13)
+- 2019-01-27
+    * Data-Set
