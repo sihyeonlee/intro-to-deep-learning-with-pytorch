@@ -39,6 +39,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Making Test Data-Set
 * 2019-01-26
     * Finish My Own Data-Set
+* 2019-01-28
+    * Repeat Lesson 4-16
 
 ## Quiz-Script
 
@@ -66,3 +68,5 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Part4 (Lesson 4-12 ~ 4-13)
 - 2019-01-27
     * Data-Set
+- 2019-01-28
+    * Part5 (Lesson 4-14 ~ 4-16)
