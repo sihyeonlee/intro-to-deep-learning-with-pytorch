@@ -43,6 +43,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Repeat Lesson 4-16
 * 2019-01-29
     * Repeat Lesson 4-19
+* 2019-01-30
+    * Implementing Classify Cat-vs-Dog
 
 ## Quiz-Script
 
