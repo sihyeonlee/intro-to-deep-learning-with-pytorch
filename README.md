@@ -49,6 +49,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Still doing(Implementing...)
 * 2019-02-01
     * Implement Dog-vs-Cat (accuracy - 0.5)
+* 2019-02-02
+    * Change Model for Accuracy
 
 ## Quiz-Script
 
