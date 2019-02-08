@@ -53,6 +53,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Change Model for Accuracy
 * 2019-02-07
     * Doing Part8
+* 2019-02-08
+    * `Lesson4 Finish`
 
 ## Quiz-Script
 
@@ -87,3 +89,5 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Part7 (Lesson 4-18 ~ 4-19)
 - 2019-02-01
     * Dog-vs-Cat
+- 2019-02-08
+    * Part8 (Without CUDA)
