@@ -55,6 +55,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Doing Part8
 * 2019-02-08
     * `Lesson4 Finish`
+* 2019-02-09
+    * New Setting for CUDA
 
 ## Quiz-Script
 
