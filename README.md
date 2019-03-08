@@ -59,6 +59,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * New Setting for CUDA
 * 2019-02-20
     * Temporarily suspend for important projects. (Until 2019-03-01)
+* 2019-03-08
+    * MLP Structure & Class Score
 
 ## Quiz-Script
 
