@@ -63,6 +63,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * MLP Structure & Class Score
 * 2019-03-10
     * Change Anaconda Env for New GPU
+* 2019-03-11
+    * Loss & Optimize
 
 ## Quiz-Script
 
