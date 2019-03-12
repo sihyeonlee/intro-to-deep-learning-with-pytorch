@@ -65,6 +65,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Change Anaconda Env for New GPU
 * 2019-03-11
     * Loss & Optimize
+* 2019-03-12
+    * Training the Network
 
 ## Quiz-Script
 
