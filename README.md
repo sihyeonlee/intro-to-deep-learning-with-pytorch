@@ -71,6 +71,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * One Solution
 * 2019-03-14
     * Model Validation
+* 2019-03-15
+    * Repeat Lesson 5-3
 
 ## Quiz-Script
 
