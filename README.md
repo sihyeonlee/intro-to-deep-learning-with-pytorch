@@ -83,6 +83,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Temporarily suspend for other study. (Until 2019-03-25)
 * 2019-03-28
     * Review
+* 2019-03-29
+    * Review 2
 
 ## Quiz-Script
 
