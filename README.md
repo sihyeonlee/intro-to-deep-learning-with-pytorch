@@ -91,6 +91,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Validation Loss
 * 2019-04-01
     * Image Classification Steps
+* 2019-04-02
+    * MLPs vs CNNs
 
 ## Quiz-Script
 
