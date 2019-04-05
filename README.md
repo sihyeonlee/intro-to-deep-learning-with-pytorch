@@ -95,7 +95,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * MLPs vs CNNs
 * 2019-04-04
     * Local Connectivity
-
+* 2019-04-05
+    * Filters and the Convolutional Layer
 ## Quiz-Script
 
 * 2019-01-01
