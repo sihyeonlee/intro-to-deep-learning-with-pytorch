@@ -99,6 +99,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Filters and the Convolutional Layer
 * 2019-04-06
     * Filters & Edges
+* 2019-04-07
+    * Frequency in images
 
 ## Quiz-Script
 
