@@ -101,6 +101,9 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Filters & Edges
 * 2019-04-07
     * Frequency in images
+* 2019-04-08
+    * High-pass Filters
+    * Temporarily suspend for other project (Until Undetermined)
 
 ## Quiz-Script
 
