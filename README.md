@@ -108,7 +108,7 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * OpenCV & Creating Custom Filters
 * 2019-04-17
     * Convolutional
-* 2019-05-13
+* 2019-05-12
     * Stride & Padding
     
 ## Quiz-Script
