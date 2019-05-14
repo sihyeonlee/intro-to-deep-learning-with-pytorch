@@ -110,6 +110,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Convolutional
 * 2019-05-12
     * Stride & Padding
+* 2019-05-14
+    * CNNs in PyTorch
     
 ## Quiz-Script
 
