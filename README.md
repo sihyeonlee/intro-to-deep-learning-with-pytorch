@@ -112,6 +112,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Stride & Padding
 * 2019-05-14
     * CNNs in PyTorch
+* 2019-05-20
+    * Pooling Layers
     
 ## Quiz-Script
 
