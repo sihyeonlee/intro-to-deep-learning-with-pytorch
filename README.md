@@ -114,7 +114,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * CNNs in PyTorch
 * 2019-05-20
     * Pooling Layers
-    
+* 2019-05-22
+    * Capsule Networks
 ## Quiz-Script
 
 * 2019-01-01
