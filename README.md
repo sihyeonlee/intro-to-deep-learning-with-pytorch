@@ -120,6 +120,9 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Increasing Depth
 * 2019-05-24
     * CNNs for Image Classification
+* 2019-05-25
+    * Convolutional Layers in PyTorch
+
 ## Quiz-Script
 
 * 2019-01-01
