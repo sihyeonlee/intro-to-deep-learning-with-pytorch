@@ -124,6 +124,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Convolutional Layers in PyTorch
 * 2019-05-26
     * Feature Vector
+* 2019-05-27
+    * CIFAR Classification
 
 ## Quiz-Script
 
