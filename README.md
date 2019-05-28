@@ -126,6 +126,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Feature Vector
 * 2019-05-27
     * CIFAR Classification
+* 2019-05-28
+    * Image Augmentation
 
 ## Quiz-Script
 
