@@ -128,6 +128,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * CIFAR Classification
 * 2019-05-28
     * Image Augmentation
+* 2019-05-29
+    * Augmentation Using Transformations
 
 ## Quiz-Script
 
