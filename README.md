@@ -130,6 +130,8 @@ Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하�
     * Image Augmentation
 * 2019-05-29
     * Augmentation Using Transformations
+* 2019-05-30
+    * Groundbreaking CNN Architectures
 
 ## Quiz-Script
 
