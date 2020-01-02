@@ -1,7 +1,9 @@
 # Intro-to-Deep-Learning-with-PyTorch
 Udacity Free Course인 Intro-to-Deep-Learning-with-PyTorch 과정을 진행하면서 발생되는 소스코드나 학습내용들을 기록하기 위해 만들었습니다.
 
-Secure and Private AI Scholarship에 선발되어 해당 내용과 유사한 Nanodegree 프로그램을 진행하기 때문에 해당 Repository는 더 이상 업데이트 되지 않습니다.
+~~Secure and Private AI Scholarship에 선발되어 해당 내용과 유사한 Nanodegree 프로그램을 진행하기 때문에 해당 Repository는 더 이상 업데이트 되지 않습니다.~~
+
+Bertelsmann Scholarship 프로그램이 위와 비슷한 커리큘럼을 가지고 있어 해당 Repository에 기록.
 
 ## 학습 일지
 
